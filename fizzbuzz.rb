@@ -6,6 +6,6 @@ for i in 1..100 do
 	elsif i%5==0
 		print("Buzz\n")
 	else 
-		print("%d\n",i)
+		print(i,"\n")
 	end
 end
